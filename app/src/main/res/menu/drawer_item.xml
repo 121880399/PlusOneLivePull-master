@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_mySubscribe"
+          android:title="我的订阅"/>
+    <item android:id="@+id/item_removeCache"
+          android:title="清除缓存"/>
+    <item android:id="@+id/item_about"
+          android:title="关于"/>
+</menu>
