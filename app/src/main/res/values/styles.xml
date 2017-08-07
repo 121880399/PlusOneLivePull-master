@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Actionbar color -->
+        <item name="colorPrimary">@color/colorWhite</item>
+        <!--Status bar color-->
+        <item name="colorPrimaryDark">@color/accent_material_light</item>
+        <item name="colorAccent">#3498db</item>
+        <!--Window color-->
+        <item name="android:windowBackground">@color/colorBack</item>
+    </style>
+
+</resources>

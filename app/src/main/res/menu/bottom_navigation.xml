@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_recommend"
+          android:title="推荐"
+          android:icon="@drawable/ic_whatshot_black_24dp"
+          />
+    <item android:id="@+id/item_category"
+        android:title="分类"
+          android:icon="@drawable/ic_group_work_black_24dp"
+        />
+    <item android:id="@+id/item_find"
+          android:title="发现"
+          android:icon="@drawable/ic_explore_black_24dp"
+          />
+</menu>
