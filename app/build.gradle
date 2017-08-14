@@ -24,5 +24,6 @@ dependencies {
     compile rootProject.ext.dependencies["banner"]
     compile rootProject.ext.dependencies["refreshLayout"]
     compile rootProject.ext.dependencies["refreshHeader"]
+    compile rootProject.ext.dependencies["recycleView-adapter"]
     compile project(':quick')
 }

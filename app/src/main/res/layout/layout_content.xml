@@ -18,6 +18,7 @@
         app:menu="@menu/bottom_navigation"
         app:itemIconTint="@color/selector_bottom_navi"
         app:itemTextColor="@color/selector_bottom_navi"
+        app:itemBackground="@color/colorWhite"
         >
 
     </android.support.design.widget.BottomNavigationView>
